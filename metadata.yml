@@ -1,5 +1,8 @@
+_commit: b4cbdea
+_src_path: gh:dfm-io/template
 title: "An experiment in open science: exoplanet population inference"
 date: 2015-07-06
 slug: "exopop"
 math: true
 draft: false
+python_version: "3.9"
