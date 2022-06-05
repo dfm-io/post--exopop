@@ -259,7 +259,6 @@ wcwidth==0.2.5
     # via prompt-toolkit
 webencodings==0.5.1
     # via
-    #   asttokens
     #   bleach
     #   tinycss2
 widgetsnbextension==3.6.0
