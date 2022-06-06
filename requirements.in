@@ -1,0 +1,12 @@
+notebook
+jupyter
+ipykernel
+nbconvert
+numpy
+scipy
+matplotlib
+requests
+pandas
+tables
+emcee
+corner
